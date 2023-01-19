@@ -16,15 +16,16 @@ public class ATM_Machine {
         try (Scanner input = new Scanner(System.in)) {
             // Initializing Variable of Password and Balance
             int password = 123456;
-            int balance = 50000;
+            int balance = 50_000;
 
             // Welcome message
             System.out.println("\t\tWelcome to the ATM Machine".toUpperCase());
             System.out.println("------------------------------------------");
 
             // Get the password of the user
-            System.out.print("Enter your PIN Password: ");
+            System.out.print  ("Enter your PIN Password: ");
             int pass = input.nextInt();
+
             System.out.println("------------------------------------------");
 
             // MAIN-ELSE STATEMENT STARTS HERE
@@ -33,9 +34,9 @@ public class ATM_Machine {
             if(pass == password){
                 // Main Page
                 System.out.println("Good Day Mr. Jhon Keneth Namias");
-                System.out.println("1. Check Balance");
-                System.out.println("2. Withdraw");
-                System.out.println("3. Deposit");
+                System.out.println("[1] Check Balance");
+                System.out.println("[2] Withdraw");
+                System.out.println("[3] Deposit");
                 System.out.println("------------------------------------------");
 
                 // Get the function of the user to be process
@@ -139,6 +140,5 @@ public class ATM_Machine {
                 System.out.print("You entered a wrong password, try again");
             }
         }
-
     }
 }
