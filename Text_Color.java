@@ -1,7 +1,6 @@
 // Java Program to Print Colored Text in Console
 
 // Importing input output classes
-import java.io.*;
 
 // Main class
 public class Text_Color {
@@ -21,21 +20,25 @@ public class Text_Color {
   public static final String ANSI_WHITE   = "\u001B[37m";
   
   // Main driver method
-  public static void main(String[] args)
-  {
-      // Printing the text on console prior adding
-      // the desired color
-      System.out.println(ANSI_YELLOW
-                        + "This text is yellow"
-                        + ANSI_RESET);
-
-      System.out.println(ANSI_RED
-                        + "This text is yellow"
-                        + ANSI_RESET);
-      System.out.println(ANSI_GREEN
-                        + "This text is yellow"
-                        + ANSI_RESET);
+  public static void main(String[] args) {
+    // Printing the text on console prior adding
+    // the desired color
+    System.out.println(ANSI_BLACK
+                      + "This text is BLACK");
+    System.out.println(ANSI_RED
+                      + "This text is RED");
+    System.out.println(ANSI_GREEN
+                      + "This text is GREEN");
+    System.out.println(ANSI_YELLOW
+                      + "This text is YELLOW");
+    System.out.println(ANSI_BLUE
+                      + "This text is BLUE");
+    System.out.println(ANSI_PURPLE
+                      + "This text is PURPLE");
+    System.out.println(ANSI_CYAN
+                      + "This text is CYAN");
+    System.out.println(ANSI_WHITE
+                      + "This text is WHITE"
+                      + ANSI_RESET);
   }
-
-
 }
