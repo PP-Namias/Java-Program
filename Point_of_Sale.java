@@ -1,25 +1,30 @@
-/*
- *  Programmer : @PP-Namias
+/** 
+ *  Point of Sale
  *  
+ *  @author PP-Namias
+ *  
+ *  Licensed under the MIT
+ *  
+ */ 
+/** 
+ * 
+/** 
+ * @param [prameters] The parameters needed to create the application
+ * @param [products] the product list.
+ * @param [productName] the product name input.
+ * @param [purchasedList] the purchased list where all the purchased products will be added.
+ * @param [purchasedProducts] the purchased products list.
+ * @param [sc] the scanner for user input.
+ * @param [str] the string to check.
+ */
+/*
  *  Features:
  *      -> Add Products
  *      -> Purchase products
  *      -> Remove Purchased Products
  *      -> View Purchased Products
  *      -> Exit
-*/
-/** 
- *  @param [prameters] The parameters needed to create the application
- *      -> [products] the product list.
- *      -> [productName] the product name input.
- *      -> [purchasedList] the purchased list where all the purchased products will be added.
- *      -> [purchasedProducts] the purchased products list.
- *      -> [sc] the scanner for user input.
- *      -> [str] the string to check.
  *  
- *  @return the product if found. else empty product.
- */
-/*
  *  [Future Features]
  *  Admin 
  *      -> create products
@@ -91,7 +96,6 @@ import java.util.Objects;
 import java.util.Scanner;
 
 public class Point_of_Sale {
-
     public static void main(String[] args) {
         ArrayList<Product> productsList = new ArrayList<>();
         ArrayList<Product> purchasedList = new ArrayList<>();

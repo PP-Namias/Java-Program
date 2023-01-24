@@ -1,3 +1,44 @@
+/** 
+ *  Hotel Booking
+ *  
+ *  @author PP-Namias
+ *  
+ *  Licensed under the MIT
+ *  
+ */ 
+/** 
+ * @param [bookedList] the booked list.
+ * @param [scanner] the scanner for user input.
+ * @param [str] the string to check.
+ */
+/*
+ *  Features:
+ *      -> Add Room
+ *      -> Remove Room
+ *      -> View Available Rooms
+ *      -> Exit
+ *  
+ *  [Future Features]
+ *  Admin 
+ *      -> create Room
+ *      -> display Room
+ *      -> search Room
+ *      -> update Room
+ *      -> delete Room
+ *  
+ *  Public
+ *      -> Add Room
+ *      -> Purchase Room
+ *      -> Remove Room
+ *      -> View Room
+ *      -> Exit
+ *  
+ *  System:
+ *      -> [Login History]
+ *      -> [Product Information]
+ *      -> [Product Order History]
+ *  
+*/ 
 import java.util.Objects;
 import java.util.regex.Pattern;
 import java.util.ArrayList;
