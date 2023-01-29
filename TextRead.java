@@ -59,24 +59,28 @@ public class TextRead {
       System.out.println(words.get(i));
     }
 
-    // Display the words with all plurals capitalized
-    System.out.println("\nPlurals capitalized: ");
+    // capitalize the plural words
     for (int i = 0; i < words.size(); i++) {
       String word = words.get(i);
       if (word.endsWith("s")) {
-        word = word.toUpperCase();
+        word = word.substring(0,1).toUpperCase() + word.substring(1).toUpperCase();
         words.set(i, word);
       }
+    }
+
+    // Display the words with all plural words capitalized
+    System.out.println("\nPlurals capitalized: ");
+    for (String word : words) {
       System.out.println(word);
     }
 
     // Remove all words that end with "s" and add them to the removedWords list
     for (int i = 0; i < words.size(); i++) {
       String word = words.get(i);
-      if (word.endsWith("s")) {
-          removedWords.add(word);
-          words.remove(i);
-          i--;
+      if (word.endsWith("S")) {
+        removedWords.add(word);
+        words.remove(i);
+        i--;
       }
     }
 
