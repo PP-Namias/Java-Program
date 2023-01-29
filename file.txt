@@ -1,0 +1,6 @@
+all
+texts
+are
+ordered
+and
+compiled
