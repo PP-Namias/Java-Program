@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1045298870533509130/1068425329909174392/egg_-_Copy-modified.png" height="128">
-  <h1 align="center">Java Program</h1>
+  <h1 align="center"><b>Java Program</b></h1>
 </p>
 
 <p align="center">
@@ -20,18 +20,16 @@ This repository contains Java programs, Java coding exercises, and challenge sol
 ![image](https://user-images.githubusercontent.com/77437944/208276007-d3b14464-3fec-4648-9142-c7735342265b.png)
 ![image](https://user-images.githubusercontent.com/77437944/208276242-b1830800-8e93-4bb8-a1fe-88e1aa7873ca.png)
 
-## Table of Contents
-
+## __Table of Contents__
 - [Motivation](#motivation)
 - [Mission](#mission)
 - [License](#license)
 
-## Motivation
+## __Motivation__
 Developing a Java console program can be a rewarding and fun experience. You can exercise your creativity and problem-solving skills, make a positive impact on the world, and gain valuable skills and experience that can be applied to many fields. So don't be afraid to start coding and express yourself through your unique program.
 
-## Mission
+## __Mission__
 The mission of developing a Java console program is to solve a real-world problem, automate a tedious task, or simplify a complex process. By doing so, you can make a positive impact on the world and challenge yourself to grow as a programmer. To achieve this mission, you need to identify a problem, design and implement a program, and thoroughly test and debug it. Start your mission today and create something uniquely yours.
 
-## License
-
+## __License__
 Licensed under the [MIT license](https://github.com/PP-Namias/Java-Program/blob/main/LICENSE.md).
