@@ -4,12 +4,8 @@
 </p>
 
 <p align="center">
-  <a aria-label="Follow PP Namias on Twitter" href="https://twitter.com/PP_Namias" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=Twitter">
-  </a>
-  <a aria-label="Follow PP Namias on Github" href="https://github.com/PP-Namias" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=Github">
-  </a>
+  <a aria-label="Follow PP Namias on Twitter" href="https://twitter.com/PP_Namias" target="_blank"><img alt="" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=Twitter"></a>
+  <a aria-label="Follow PP Namias on Github" href="https://github.com/PP-Namias" target="_blank"><img alt="" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=Github"></a>
 </p>
 
 This repository contains Java programs, Java coding exercises, and challenge solutions from my professor "*Alban Ryan Rei's*" Computer Science Java course.
