@@ -6,16 +6,16 @@
 <p align="center">
   <a aria-label="Follow PP Namias on Twitter" href="https://twitter.com/PP_Namias" target="_blank"><img alt="" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=Twitter"></a>
   <a aria-label="Follow PP Namias on Github" href="https://github.com/PP-Namias" target="_blank"><img alt="" src="https://img.shields.io/badge/Follow%20@PP_Namias-black.svg?style=for-the-badge&logo=Github"></a>
+  <br>
+  <a href="https://github.com/PP-Namias/Java-Program/blob/master/LICENSE" target="blank"><img src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square" alt="Java-Program All Contributors" /></a>
+  <a href="https://github.com/PP-Namias/Java-Program/blob/master/LICENSE" target="blank"><img src="https://img.shields.io/github/license/PP-Namias/Java-Program?style=flat-square" alt="Java-Program license" /></a>
+  <a href="https://github.com/PP-Namias/Java-Program/fork" target="blank"><img src="https://img.shields.io/github/forks/PP-Namias/Java-Program?style=flat-square" alt="Java-Program forks"/></a>
+  <a href="https://github.com/PP-Namias/Java-Program/stargazers" target="blank"><img src="https://img.shields.io/github/stars/PP-Namias/Java-Program?style=flat-square" alt="Java-Program stars"/></a>
+  <a href="https://github.com/PP-Namias/Java-Program/issues" target="blank"><img src="https://img.shields.io/github/issues/PP-Namias/Java-Program?style=flat-square" alt="Java-Program issues"/></a>
+  <a href="https://github.com/PP-Namias/Java-Program/pulls" target="blank"><img src="https://img.shields.io/github/issues-pr/PP-Namias/Java-Program?style=flat-square" alt="Java-Program pull-requests"/></a>
 </p>
 
 This repository contains Java programs, Java coding exercises, and challenge solutions from my professor "*Alban Ryan Rei's*" Computer Science Java course.
-
-<a href="https://github.com/PP-Namias/Java-Program/blob/master/LICENSE" target="blank"><img src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square" alt="Java-Program All Contributors" /></a>
-<a href="https://github.com/PP-Namias/Java-Program/blob/master/LICENSE" target="blank"><img src="https://img.shields.io/github/license/PP-Namias/Java-Program?style=flat-square" alt="Java-Program license" /></a>
-<a href="https://github.com/PP-Namias/Java-Program/fork" target="blank"><img src="https://img.shields.io/github/forks/PP-Namias/Java-Program?style=flat-square" alt="Java-Program forks"/></a>
-<a href="https://github.com/PP-Namias/Java-Program/stargazers" target="blank"><img src="https://img.shields.io/github/stars/PP-Namias/Java-Program?style=flat-square" alt="Java-Program stars"/></a>
-<a href="https://github.com/PP-Namias/Java-Program/issues" target="blank"><img src="https://img.shields.io/github/issues/PP-Namias/Java-Program?style=flat-square" alt="Java-Program issues"/></a>
-<a href="https://github.com/PP-Namias/Java-Program/pulls" target="blank"><img src="https://img.shields.io/github/issues-pr/PP-Namias/Java-Program?style=flat-square" alt="Java-Program pull-requests"/></a>
 
 ![image](https://user-images.githubusercontent.com/77437944/208276007-d3b14464-3fec-4648-9142-c7735342265b.png)
 ![image](https://user-images.githubusercontent.com/77437944/208276242-b1830800-8e93-4bb8-a1fe-88e1aa7873ca.png)
