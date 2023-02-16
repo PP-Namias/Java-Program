@@ -1,3 +1,19 @@
+/** 
+ *  Calculator
+ *  
+ *  @author PP-Namias
+ *  
+ *  Licensed under the MIT
+ *  
+ */ 
+/** 
+ * @param [num1] The parameters needed number 1
+ * @param [num2] The parameters needed number 1
+ * @param [result] The reuslt of the calculations
+ * @param [operator] The seleceted operator
+ * @param [input] the scanner for user input.
+ */
+
 import java.util.Scanner;
 
 public class Calculator {
