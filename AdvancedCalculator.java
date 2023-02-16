@@ -1,3 +1,28 @@
+/** 
+ * Advance Calculator
+ *  
+ * @author PP-Namias
+ *  
+ * Licensed under the MIT
+ *  
+ */ 
+/** 
+ * @param [input] The scanner for user input.
+ * @param [exit] Used to exit the program.
+ * @param [operator] The seleceted operator
+ * @param [numStrings] The parameters needed to make the array of numbers 
+ * @param [numbers] The parameters needed to validaite the numbers
+ * @param [result] The reuslt of the calculations
+ */
+/*
+ * Features:
+ *  -> Add multipole numbers
+ *  -> loops infinitly
+ *  -> Gets the operator (+, -, *, /)
+ *  -> View the result
+ *  -> Exit
+ *  -> Error handling
+*/  
 import java.util.Scanner;
 
 public class AdvancedCalculator {
