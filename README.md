@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1045298870533509130/1068425329909174392/egg_-_Copy-modified.png" height="128">
+  <img src="https://cdn.discordapp.com/attachments/1045298870533509130/1068425329909174392/egg_-_Copy-modified.png" width="200" height="200">
   <h1 align="center"><b>Java Program</b></h1>
 </p>
 
