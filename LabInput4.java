@@ -39,6 +39,7 @@ public class LabInput4 {
         String itemName;
         double priceLastYear, priceThisYear, inflationRate;
         boolean exit = false;
+
         while (!exit) {
             try {
                 System.out.print("Please enter the name of the item or enter 'exit' to quit: ");
