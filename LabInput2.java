@@ -43,7 +43,27 @@ public class LabInput2 {
           tens = (num % 100) / 10;
           ones = (num % 100) % 10;
           System.out.println("The value of num = " + num);
+          if (hundreds == 0) {
+              System.out.println(tens + " tens and " + ones + " ones");
+          }
+          else if (hundreds == 1) {
+              System.out.println(hundreds + " hundred " + tens + " tens and " + ones + " ones");
+          }
+          else if (tens == 0) {
+              System.out.println(hundreds + " hundreds and " + ones + " ones");
+          }
+          else if (tens == 1) {
+              System.out.println(hundreds + " hundreds " + tens + " ten and " + ones + " ones");
+          }
+          else if (ones == 0) {
+              System.out.println(hundreds + " hundreds " + tens + " tens");
+          }
+          else if (ones == 1) {
+              System.out.println(hundreds + " hundreds " + tens + " tens and " + ones + " one");
+          }
+          else{
           System.out.println(hundreds + " hundreds " + tens + " tens and " + ones + " ones");
+          }
         }
       } catch (Exception e) {
         System.out.println("Please enter the correct input.");
