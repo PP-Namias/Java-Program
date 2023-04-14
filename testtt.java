@@ -1,19 +1,31 @@
+/*
+ * make an grade calculator that takes in the grade and the weight of the grade
+ * and then calculates the final grade
+ * use grading system A,B,C,D,F
+ */
+import java.util.Scanner;
 public class testtt {
-
   public static void main (String[] args) {
-    System.out.println ("5ft, 8in = " + convertToCentimeters (5, 8) + "cm");
-    System.out.println ("68in = " + convertToCentimeters (68) + "cm");
-}
-
-public static double convertToCentimeters (int inches) {
-    return inches * 2.54;
-}
-
-public static double convertToCentimeters (int feet, int inches) {
-    // return convertToCentimeters((feet * 12) + inches);
-    int feetToInches = feet * 12;
-    int totalInches = feetToInches + inches;
-    double result = convertToCentimeters (totalInches);
-    return result;
+    Scanner input = new Scanner(System.in);
+    System.out.println("Enter the grade and the weight of the grade");
+    double grade = input.nextDouble();
+    double weight = input.nextDouble();
+    double finalGrade = grade * weight;
+    System.out.println("The final grade is " + finalGrade);
+    if (finalGrade >= 90) {
+      System.out.println("The grade is A");
+    }
+    else if (finalGrade >= 80) {
+      System.out.println("The grade is B");
+    }
+    else if (finalGrade >= 70) {
+      System.out.println("The grade is C");
+    }
+    else if (finalGrade >= 60) {
+      System.out.println("The grade is D");
+    }
+    else {
+      System.out.println("The grade is F");
+    }
   }
 }
